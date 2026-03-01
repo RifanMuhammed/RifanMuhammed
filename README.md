@@ -9,3 +9,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RSP-007&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsp-007&show_icons=true&locale=en&layout=compact" alt="rsp-007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsp-007&show_icons=true&locale=en" alt="rsp-007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsp-007&" alt="rsp-007" /></p>
