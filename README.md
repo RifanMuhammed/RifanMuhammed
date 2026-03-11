@@ -11,7 +11,10 @@
 
 
 <!--START_SECTION:waka-->
+![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
 <!--END_SECTION:waka-->
+
+![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
 # 📊 GitHub Stats:
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RSP-007&show_icons=true&theme=radical"/>
