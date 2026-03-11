@@ -7,6 +7,6 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RSP-007&theme=radical"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RSP-007&theme=react-dark"/>
+  <img width="49%" height=170em src="https://github-readme-streak-stats.herokuapp.com/?user=RSP-007&theme=radical"/>
+  <img width="49%" height=170em src="https://github-readme-activity-graph.vercel.app/graph?username=RSP-007&theme=react-dark"/>
 </p>
