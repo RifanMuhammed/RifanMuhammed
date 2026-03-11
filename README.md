@@ -1,8 +1,8 @@
 # Hi 👋 I'm RSP
 
-💻 BTech CSE Student
-🚀 Full Stack Developer
-🌱 Currently learning Backend & System Design
+💻 BTech CSE Student<br>
+🚀 Full Stack Developer<br>
+🌱 Currently learning Backend & System Design<br>
 ⚡ Building projects with Node.js and modern web technologies
 
 
@@ -15,4 +15,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RSP-007&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSP-007&layout=compact&theme=radical"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=RSP-007&theme=radical"/>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://twitter.com/YOURPROFILE"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
+<a href="mailto:YOURMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
