@@ -6,10 +6,6 @@
 
 
 # 📊 GitHub Stats
-<p align="center">
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=RSP-007&theme=radical"/>
-  
-  <span style="display:inline-block;height:190px;overflow:hidden;">
-    <img height="260px" src="https://github-readme-activity-graph.vercel.app/graph?username=RSP-007&theme=react-dark"/>
-  </span>
-</p>>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RSP-007&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RSP-007&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RSP-007&theme=radical)
