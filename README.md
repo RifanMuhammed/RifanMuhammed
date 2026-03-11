@@ -6,7 +6,7 @@
 
 
 # 📊 GitHub Stats
-<p align="center">  
- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=RSP-007&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSP-007&layout=compact&theme=radical"/>
+<p align="center">
+  <img width="48%" style="margin-right:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=RSP-007&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSP-007&layout=compact&theme=radical"/>
 </p>
