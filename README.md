@@ -10,11 +10,7 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RSP-007&show_icons=true&theme=radical"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSP-007&layout=compact&theme=radical"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=RSP-007&theme=radical"/>
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 </p>
 
-<img src="https://metrics.lecoq.io/RSP-007" />
-
-<img src="https://ghchart.rshah.org/RSP-007" />
 
