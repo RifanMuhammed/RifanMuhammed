@@ -1,3 +1,9 @@
+# Hi 👋 I'm RSP
+
+💻 BTech CSE Student
+🚀 Full Stack Developer
+🌱 Currently learning Backend & System Design
+⚡ Building projects with Node.js and modern web technologies
 
 
 # 💻 Tech Stack:
