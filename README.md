@@ -1,13 +1,73 @@
+# 👋 Hi, I'm Rifan Muhammed
 
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Postgres](https://img.shields.io/badge/POSTGRESQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+💻 **Computer Science Engineering Student**
+🚀 Aspiring **Full-Stack Developer**
+🌱 Currently learning **React, TypeScript & modern web development**
 
+I enjoy building web applications, learning how software works under the hood, and turning ideas into practical projects.
 
+---
 
+## 🛠️ Tech Stack
 
-# 📊 GitHub Stats
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge\&logo=ejs\&logoColor=black)
+
+### 🗄️ Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=for-the-badge\&logo=nodemon\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+* 🍳 **Forkify** — Recipe search and management web application
+* 🐉 **Dragon Ball Z Web App** — Express.js / EJS project
+* 📝 **Book Notes** — Notes application built with Express and PostgreSQL
+* 💰 **Finora** — Personal expense tracker project
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
- <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=RSP-007&theme=radical"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSP-007&layout=compact&theme=radical"/>
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=RifanMuhammed&theme=radical" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifanMuhammed&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 🎯 Currently
+
+* 🔨 Building full-stack projects
+* ⚛️ Learning React & TypeScript
+* 🧠 Improving Data Structures & Algorithms
+* 🚀 Exploring backend development and modern web technologies
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-RifanMuhammed-181717?style=for-the-badge\&logo=github)](https://github.com/RifanMuhammed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+⭐ **Thanks for visiting my profile!**
