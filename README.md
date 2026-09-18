@@ -12,7 +12,7 @@
 
 <table cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; border: none; border-collapse: collapse; width: 100%; gap: 0; word-spacing: -4px;">
   <tr style="margin: 0; padding: 0; border: none;">
-    <td style="margin: 0; padding: 0; border: none; width: 50%; vertical-align: top; font-size: 0;"><img src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" width="100%" height="300px" style="margin: 0; padding: 0; display: block; vertical-align: top; border: none;" /></td><td style="margin: 0; padding: 0; border: none; width: 50%; vertical-align: top; font-size: 0;"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" height="300px" style="margin: 0; padding: 0; display: block; vertical-align: top; border: none;" /></td>
+    <td style="margin: 0; padding: 0; border: none; width: 50%; vertical-align: top; font-size: 0;"><img src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=true" width="100%" height="300px" style="margin: 0; padding: 0; display: block; vertical-align: top; border: none;" /></td><td style="margin: 0; padding: 0; border: none; width: 50%; vertical-align: top; font-size: 0;"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" height="300px" style="margin: 0; padding: 0; display: block; vertical-align: top; border: none;" /></td>
   </tr>
 </table>
 ---
