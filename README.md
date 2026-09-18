@@ -10,9 +10,10 @@
 
 ## 📊 GitHub Stats
 
-<img width="50%" src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" />
-<img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
+<div style="display: flex; gap: 0; width: 100%;">
+  <img width="50%" src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" />
+  <img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 ---
 
 ## 📫 Connect With Me
