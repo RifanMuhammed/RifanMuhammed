@@ -10,7 +10,11 @@
 
 ## 📊 GitHub Stats
 
-<img height="50%" width="50%" style="margin: 0; padding: 0; display: inline-block;" src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" /><img height="75%" width="50%" style="margin: 0; padding: 0; display: inline-block;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<div style="display: flex; gap: 0; width: 100%; margin: 0; padding: 0;">
+  <img src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" style="flex: 1; height: 300px; margin: 0; padding: 0;" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="flex: 1; height: 300px; margin: 0; padding: 0;" />
+</div>
+
 ---
 
 ## 📫 Connect With Me
