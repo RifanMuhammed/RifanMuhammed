@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-<img height="175em" src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" /><img height="175em"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img height="175em" flex:1 src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" /><img height="175em" flex:1 src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 ---
 
 ## 📫 Connect With Me
