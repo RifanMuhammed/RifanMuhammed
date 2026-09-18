@@ -12,8 +12,8 @@
 
 <table style="margin: 0; padding: 0; border-collapse: collapse; width: 100%;">
   <tr style="margin: 0; padding: 0;">
-    <td style="margin: 0; padding: 0; border: none; width: 50%;">![](https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false)</td>
-    <td style="margin: 0; padding: 0; border: none; width: 50%;">![](https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</td>
+    <td style="margin: 0; padding: 0; border: none; width: 50%;"><img src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" width="100%" /></td>
+    <td style="margin: 0; padding: 0; border: none; width: 50%;"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" /></td>
   </tr>
 </table>
 ---
