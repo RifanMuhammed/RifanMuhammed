@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rifan Muhammed
 
 💻 **Computer Science Engineering Student** · 🚀 **Aspiring Full-Stack Developer**
-🌱 Currently learning **React, TypeScript & modern web development**
+🌱 Currently learning **React, TypeScript & modern web development.**
 
 ---
 
