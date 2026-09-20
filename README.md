@@ -14,7 +14,7 @@
   <img height="170em" src="https://streak-stats.demolab.com/?user=RifanMuhammed&theme=radical&hide_border=false" style="flex: 1; margin: 0; padding: 0;" />
   <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RifanMuhammed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="flex: 1; margin: 0; padding: 0;" />
 </div>
----
+
 
 ## 📫 Connect With Me
 
