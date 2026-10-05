@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rifan Muhammed
+# 👋 Hi, [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Rifan+Muhammed)](https://git.io/typing-svg) 
 
 💻 **Computer Science Engineering Student** · 🚀 **Full-Stack Developer**  🥷 **React, TypeScript & modern web development.**
 
