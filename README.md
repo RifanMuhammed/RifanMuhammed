@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rifan Muhammed
----
+
 💻 **Computer Science Engineering Student** · 🚀 **Full-Stack Developer**  🥷 **React, TypeScript & modern web development.**
 
 ---
